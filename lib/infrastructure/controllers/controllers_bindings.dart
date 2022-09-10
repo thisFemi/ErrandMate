@@ -1,0 +1,2 @@
+export 'package:errandmate/infrastructure/navigation/bindings/controllers/onboardingscreen.controller.binding.dart'; 
+export 'package:errandmate/infrastructure/navigation/bindings/controllers/splashscreen.controller.binding.dart'; 
